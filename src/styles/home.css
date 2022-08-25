@@ -1,0 +1,18 @@
+* {
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.home_main {
+    display: flex;
+}
+
+.product {
+    min-width: 60%;
+}
+
+.cart {
+    min-width: 40%;
+}
+
